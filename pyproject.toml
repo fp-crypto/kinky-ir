@@ -8,6 +8,7 @@ dependencies = [
     "altair>=5.5.0",
     "marimo>=0.13.15",
     "pandas>=2.3.0",
+    "scipy>=1.13.1",
 ]
 
 [dependency-groups]
